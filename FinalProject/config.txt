@@ -1,0 +1,8 @@
+images\Angry_Gems_logo.png
+images/Bird_green.png
+images/Bird_black.png
+images/Bird_purple.png
+images/Bird_red.png
+images/Bird_white.png
+images/Bird_yellow.png
+images/Bird_blue.png
